@@ -22,4 +22,4 @@ FROM machines;
 
 ![image](https://github.com/user-attachments/assets/d6dfc857-70a1-4177-9181-ba98c97b6a34)
 
-- Analyzing data retrieved, we need to see what email client was returned in the third row.
+- Analyzing data retrieved, we need to see what email client was returned in the third row, which is Email Client 2.
