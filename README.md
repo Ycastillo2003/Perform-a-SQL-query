@@ -5,7 +5,7 @@
 # SQL: Performing an SQL query.
 In this project, I demonstrated foundational SQL skills by writing and executing queries to retrieve data.
 
-# Environments and Technologies Used</h2>.
+# Environments and Technologies Used.
 - Google Cloud Virtual Machines.
 - SQL database
 
