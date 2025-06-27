@@ -61,5 +61,8 @@ FROM machines;
 
 - Adding login_time to the ORDER BY clause.
 
+![image](https://github.com/user-attachments/assets/55b954ce-e4cf-43ff-b499-0b447cfa27b3)
+
+- Now our data is more organized we can see it by date and the time they logged in on that date, making it easier for us to observe and check which attempts were made out of business hours and on what day.
 
 
