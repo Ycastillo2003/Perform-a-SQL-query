@@ -23,3 +23,8 @@ FROM machines;
 ![image](https://github.com/user-attachments/assets/d6dfc857-70a1-4177-9181-ba98c97b6a34)
 
 - Analyzing data retrieved, we need to see what email client was returned in the third row, which is Email Client 2.
+
+![image](https://github.com/user-attachments/assets/f74e2be3-cf76-49ff-8874-ca54634eca01)
+
+- Using SELECT device_id, operating_systems, OS_patch_date to find the patch date of the first entry.
+   -> FROM machines;
