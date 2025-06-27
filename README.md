@@ -26,8 +26,8 @@ FROM machines;
 
 ![image](https://github.com/user-attachments/assets/f74e2be3-cf76-49ff-8874-ca54634eca01)
 
-- Using SELECT device_id, operating_systems, OS_patch_date to find the patch date of the first entry.
-   -> FROM machines;
+- Using SELECT device_id, -> FROM machines; operating_systems, OS_patch_date to find the patch date of the first entry.
+   
 
 ![image](https://github.com/user-attachments/assets/405e4000-f8dd-4693-956e-a8e4bdd05dd3)
 
@@ -35,6 +35,5 @@ FROM machines;
 
 ![image](https://github.com/user-attachments/assets/7bf52197-19f1-4afe-a785-dd3c9cc0e5bf)
 
-- Using SELECT event_id, country to investigate login attempts, specifically how many login attempts were made from Australia.
-    -> FROM log_in_attempts 
-
+- Using SELECT event_id, country -> FROM log_in_attempts  to investigate login attempts, specifically how many login attempts were made from Australia.
+  
