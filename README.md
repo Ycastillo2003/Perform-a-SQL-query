@@ -19,3 +19,7 @@ In this scenario, we have to determine which employee devices must be updated. W
 
 - Using SELECT * to retrieve data from the machine's table.
 FROM machines;
+
+![image](https://github.com/user-attachments/assets/d6dfc857-70a1-4177-9181-ba98c97b6a34)
+
+- Analyzing data retrieved, we need to see what email client was returned in the third row.
