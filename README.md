@@ -68,4 +68,7 @@ FROM machines;
 
 
   Thank you for reaching the conclusion of this lab. We have successfully executed a series of SQL queries to retrieve, structure, and analyze data, demonstrating effective data handling and analytical techniques.
+
+  
+
   ![image](https://github.com/user-attachments/assets/61dc5d93-5c7a-43db-bd88-d0fa618c199d)
