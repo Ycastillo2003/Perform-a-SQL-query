@@ -28,3 +28,7 @@ FROM machines;
 
 - Using SELECT device_id, operating_systems, OS_patch_date to find the patch date of the first entry.
    -> FROM machines;
+
+![image](https://github.com/user-attachments/assets/405e4000-f8dd-4693-956e-a8e4bdd05dd3)
+
+- Observing the retrieved data, the first patch date entry is 2021-09-01.
