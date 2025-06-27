@@ -35,5 +35,5 @@ FROM machines;
 
 ![image](https://github.com/user-attachments/assets/7bf52197-19f1-4afe-a785-dd3c9cc0e5bf)
 
-- Using SELECT event_id, country -> FROM log_in_attempts  to investigate login attempts, specifically how many login attempts were made from Australia.
+- Using SELECT event_id, country -> FROM log_in_attempts  to investigate login attempts, specifically if any login attempts were made from Australia.
   
