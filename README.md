@@ -3,3 +3,4 @@
 
 
 # SQL: Performing an SQL query.
+Description: In this project, I demonstrated foundational SQL skills by writing and executing queries to retrieve data.
