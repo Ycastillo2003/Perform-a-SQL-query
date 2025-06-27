@@ -32,3 +32,9 @@ FROM machines;
 ![image](https://github.com/user-attachments/assets/405e4000-f8dd-4693-956e-a8e4bdd05dd3)
 
 - Observing the retrieved data, the first patch date entry is 2021-09-01.
+
+![image](https://github.com/user-attachments/assets/7bf52197-19f1-4afe-a785-dd3c9cc0e5bf)
+
+- Using SELECT event_id, country to investigate login attempts, specifically how many login attempts were made from Australia.
+    -> FROM log_in_attempts 
+
