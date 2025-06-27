@@ -41,6 +41,9 @@ FROM machines;
 
 - Analyzing all 200 rows and verifying that no login attempts were made from Australia.
 
+![image](https://github.com/user-attachments/assets/4c70c868-5210-4113-a7d3-e6d600ecb357)
+
+- Using SELECT username, login_date, Login_time FROM log_in_attempts; to check if any logins attempts were made after work hours.
 
 
 
