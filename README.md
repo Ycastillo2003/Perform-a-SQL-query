@@ -10,3 +10,7 @@ In this project, I demonstrated foundational SQL skills by writing and executing
 - SQL database
 
 # Actions and observations.
+
+In this lab activity, we’ll use the SELECT and FROM clauses in SQL to retrieve the necessary information from a database. We’ll also use the ORDER BY keyword to sequence the information returned by a query based on a specified column.
+
+In this scenario, we have to determine which employee devices must be updated. We also need to investigate user login activity to explore if any unusual activity has occurred. The information we need is located in the machines and login_attempts tables in the organization database.
