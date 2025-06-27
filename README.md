@@ -55,6 +55,6 @@ FROM machines;
 
 ![image](https://github.com/user-attachments/assets/edd9f295-2279-400e-9b81-57f73bc74bf7)
 
-- Now our data is more organized; however, we are going further to organize the previous results by ordering them by login_time. We will do that by modifying  the query from the previous step by adding the login time to the ORDER BY clause.
+- Now our data is more organized however, we are going further to organize the previous results by ordering them by login_time. We will do that by modifying  the query from the previous step by adding the login time to the ORDER BY clause.
 
 
