@@ -7,7 +7,7 @@ In this project, I demonstrated foundational SQL skills by writing and executing
 
 # Environments and Technologies Used.
 - Google Cloud Virtual Machines.
-- SQL (structured query language).
+- SQL (Structured Query Language).
 
 # Actions and observations.
 
