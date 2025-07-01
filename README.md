@@ -9,6 +9,9 @@ In this project, I demonstrated foundational SQL skills by writing and executing
 - Google Cloud Virtual Machines.
 - SQL (Structured Query Language).
 
+# Operating Systems Used </h2>
+- Linux.
+
 # Actions and observations.
 
 In this lab activity, we’ll use the SELECT and FROM clauses in SQL to retrieve the necessary information from a database. We’ll also use the ORDER BY keyword to sequence the information returned by a query based on a specified column.
@@ -71,4 +74,4 @@ FROM machines;
 
   
 
-  ![image](https://github.com/user-attachments/assets/61dc5d93-5c7a-43db-bd88-d0fa618c199d)
+
